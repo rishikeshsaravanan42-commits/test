@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ynufAWdZr1u7iVfRF9Gs">
+    <mxGraphModel dx="2256" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IAM USERS" vertex="1">
+          <mxGeometry height="50" width="210" x="-190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="i) It is the policy based access to let the specific user uses the specific resources and services" vertex="1">
+          <mxGeometry height="30" width="540" x="-140" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-3" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="560" x="-70" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ID:employe" vertex="1">
+          <mxGeometry height="80" width="80" x="180" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BANK" vertex="1">
+          <mxGeometry height="50" width="90" x="150" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ID:Customer" vertex="1">
+          <mxGeometry height="80" width="80" x="380" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ID:Manager" vertex="1">
+          <mxGeometry height="80" width="80" x="-25" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Admin can create the account with authentication and authorisation&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eg: manager can access all the resources and employee can access the specific resource&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="490" x="-25" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Authentication : The process of verifiying the Users Identity and Password, devices etc..." vertex="1">
+          <mxGeometry height="30" width="360" x="60" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="YGecDmzMeMmPMA0fcYwN-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Authorization&lt;strong&gt;:&lt;/strong&gt; The process of checking whether a user has permission to access specific resources or perform certain actions in a system." vertex="1">
+          <mxGeometry height="30" width="385" x="55" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
